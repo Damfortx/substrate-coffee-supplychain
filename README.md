@@ -183,7 +183,7 @@ function:
 1. Navigate to the Raw material tab and create raw material.
 
    ![create rawMaterial](assets/img/demo/1.png)
-
+ 
 1. Use the Process tab to create register a new process whit the raw material that were created in the
    previous step, the input amount is how much of the raw material you want to use, and the produced is the material created for in process (then you can use that produced amount to retail packaging or to create a new raw material for another process)
 
